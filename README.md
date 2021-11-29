@@ -1,8 +1,9 @@
-#Programming projects ideas
+# Programming projects ideas
+
 this list is collected and sorted from [The Programmers Idea Book](https://www.coderslexicon.com/downloads/the-programmers-idea-book/) v1.05 by [Akram Abu Owaimer](https://github.com/AkramAbuOwaimer), and the links for completed projects with each one.
 
 
-##Numbers
+## Numbers
 - [ ] 1 - Add / Subtract / Multiply / DivideFractions
 - [ ] 2 - Alarm Clock
 - [ ] 3 - Binary to Decimal and Back Converter
@@ -25,7 +26,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 20 - Tax Calculator
 - [ ] 21 - Unit Converter (Temp, Currency, Volume, Mass and More)
 
-##Text
+## Text
 - [ ] 22 - CD Key Generator – Generates a unique key for your applications to use based on some arbitrary algorithm that you can specify. Great for software developers looking to make shareware that can be activated.
 - [ ] 23 - Check if Palindrome – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 - [ ] 24 - Code Skeleton Creator
@@ -49,7 +50,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 42 - Vigenere / Vernam / Caesar Ciphers
 - [ ] 43 - Write Out Number
 
-##Networking
+## Networking
 - [ ] 44 - Chat Application (IRC or MSN Style)
 - [ ] 45 - Country from IP Lookup
 - [ ] 46 - Email Server
@@ -72,7 +73,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 63 - Whois Search Tool
 - [ ] 64 - Zip / Postal Code Lookup
 
-##Classes
+## Classes
 - [ ] 65 - Airline / Hotel Reservation System
 - [ ] 66 - Bank Account Manager
 - [ ] 67 - Chart Making Class / API
@@ -96,7 +97,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 85 - Student Grade Book Application
 - [ ] 86 - Vending Machine
 
-##Threading
+## Threading
 - [ ] 87 - Bulk Thumbnail Creator
 - [ ] 88 - Chat Application (remoting style)
 - [ ] 89 - Create Progress Bar of Download
@@ -104,7 +105,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 91 - News Aggregator
 - [ ] 92 - XML sitemap generator
 
-##Web
+## Web
 - [ ] 93 - Bandwidth Monitor
 - [ ] 94 - Bookmark Collector and Sorter
 - [ ] 95 - CAPTCHA Maker
@@ -127,7 +128,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 112 - Web Browser with Tabs
 - [ ] 113 - WYSIWG (What you see is what you get) Editor
 
-##Files
+## Files
 - [ ] 114 - Add Transactions In File and Find Averages
 - [ ] 115 - Barcode reader and generator
 - [ ] 116 - Bulk Renamer and Organizer
@@ -156,7 +157,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 139 - Versioning Manager
 - [ ] 140 - Web document viewer
 
-##Databases
+## Databases
 - [ ] 141 - Address Book
 - [ ] 142 - Baseball / Other Card Collector
 - [ ] 143 - Budget Tracker
@@ -176,7 +177,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 157 - Travel Planner System
 - [ ] 158 - Web Board (Forum)
 
-##Graphics and Multimedia
+## Graphics and Multimedia
 - [ ] 160 - Bulk Picture Manipulator
 - [ ] 161 - CD Burning App
 - [ ] 162 - Image Browser
@@ -196,7 +197,7 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 176 - Watermarking Application
 - [ ] 178 - YouTube Downloader
 
-##Games
+## Games
 - [ ] 179 - D RPG
 - [ ] 180 - Battleship  – Create two game boards and let each player place a number of war ships. Each player can’t see the other person’s board. They then take turns firing at one another by guessing one of the board squares. If the square they guess contains part of a ship, it is a hit. Otherwise it is a miss. They sink a ship when all squares containing that particular ship have been uncovered. The player wins when all their opponents’ ships have been sunk.
 - [ ] 181 - Black Jack
