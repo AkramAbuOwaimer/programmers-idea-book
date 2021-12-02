@@ -30,24 +30,24 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 22 - CD Key Generator – Generates a unique key for your applications to use based on some arbitrary algorithm that you can specify. Great for software developers looking to make shareware that can be activated.
 - [ ] 23 - Check if Palindrome – Checks if the string entered by the user is a palindrome. That is that it reads the same forwards as backwards like “racecar”
 - [ ] 24 - Code Skeleton Creator
-- [ ] 25 - Count Vowels
-- [ ] 26 - Count Words in a String
+- [ ] 25 - Count Vowels – Enter a string and the program counts the number of vowels in the text. For added complexity have it report a sum of each vowel found.
+- [ ] 26 - Count Words in a String – Counts the number of individual words in a string. For added complexity read these strings in from a text file and generate a summary.
 - [ ] 27 - Font Viewer and Tester (Online or Not)
-- [ ] 28 - Fortune Teller (Horoscope)
-- [ ] 29 - Guestbook / Journal
+- [ ] 28 - Fortune Teller (Horoscope) – A program that checks your horoscope on various astrology sites and puts them together for you each day.
+- [ ] 29 - Guestbook / Journal – A simple application that allows people to add comments or write journal entries. It can allow comments or not and timestamps for all entries. Could also be made into a shout box.
 - [ ] 30 - Morse Code Maker
-- [ ] 31 - News Ticker and Game Scores
-- [ ] 32 - Pig Latin
-- [ ] 33 - Post it Notes Program
-- [ ] 34 - Quote Tracker (Market Symbols etc)
-- [ ] 35 - Random Gift Suggestions
-- [ ] 36 - RSS Feed Creator
+- [ ] 31 - News Ticker and Game Scores – A program which sits on your desktop and aggregates news and game scores from various sources on the net. It then scrolls them across the screen on regular intervals.
+- [ ] 32 - Pig Latin – Pig Latin is a game of alterations played on the English language game. To create the Pig Latin form of an English word the initial consonant sound is transposed to the end of the word and an ay is affixed (Ex.: "banana" would yield anana-bay). Read Wikipedia for more information on rules.
+- [ ] 33 - Post it Notes Program – A program where you can add text reminders and post them. You can have the program also add popup reminders.
+- [ ] 34 - Quote Tracker (Market Symbols etc) – A program which can go out and check the current value of stocks for a list of symbols entered by the user. The user can set how often the stocks are checked and the program can show green up and red down arrows to show which direction the stock value has moved.
+- [ ] 35 - Random Gift Suggestions – Enter various gifts for certain people when you think of them. When its time to give them a gift (xmas, birthday, anniversary) it will randomly pick one and perhaps places you can get it.
+- [ ] 36 - RSS Feed Creator – A program which can read in text from other sources and put it in RSS or Atom news format for syndication.
 - [ ] 37 - Recreate Grep (Pattern Matching)
-- [ ] 38 - Regex Query Tool
+- [ ] 38 - Regex Query Tool – A tool that allows the user to enter a text string and then in a separate control enter a regex pattern. It will run the regular expression against the source text and return any matches or flag errors in the regular expression.
 - [ ] 39 - Reverse a String - Enter a string and the program will reverse it and print it out.
-- [ ] 40 - Text Editor
-- [ ] 41 - Text to HTML Generator
-- [ ] 42 - Vigenere / Vernam / Caesar Ciphers
+- [ ] 40 - Text Editor – Notepad style application that can open, edit, and save text documents. Add syntax highlighting and other features.
+- [ ] 41 - Text to HTML Generator – Converts text files into web HTML files and stylizes them. Great for making online documentation of standard text documentation.
+- [ ] 42 - Vigenere / Vernam / Caesar Ciphers – Functions for encrypting and decrypting data messages. Then send them to a friend.
 - [ ] 43 - Write Out Number
 
 ## Networking
@@ -98,10 +98,10 @@ this list is collected and sorted from [The Programmers Idea Book](https://www.c
 - [ ] 86 - Vending Machine
 
 ## Threading
-- [ ] 87 - Bulk Thumbnail Creator
-- [ ] 88 - Chat Application (remoting style)
-- [ ] 89 - Create Progress Bar of Download
-- [ ] 90 - Download Manager
+- [ ] 87 - Bulk Thumbnail Creator – Picture processing can take a bit of time for some transformations. Especially if the image is large. Create an image program which can take hundreds of images and converts them to a specified size in the background thread while you do other things. For added complexity, have one thread handling re-sizing, have another bulk renaming of thumbnails etc.
+- [ ] 88 - Chat Application (remoting style) – Create a chat application which allows you to connect directly to another computer by their IP through the use of remoting and allow your “server” application handle multiple incoming connections.
+- [ ] 89 - Create Progress Bar of Download – Create a progress bar for applications that can keep track of a download in progress. The progress bar will be on a separate thread and will communicate with the main thread using delegates.
+- [ ] 90 - Download Manager – Allow your program to download various files and each one is downloading in the background on a separate thread. The main thread will keep track of the other thread’s progress and notify the user when downloads are completed.
 - [ ] 91 - News Aggregator
 - [ ] 92 - XML sitemap generator
 
